@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/saadalam01/saadalam01/main/assets/banner.png" width="100%">
-</p>
-
 <h1 align="center">Hi 👋, I'm Saad Alam</h1>
 
 <h3 align="center">
