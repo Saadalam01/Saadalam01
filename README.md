@@ -111,17 +111,3 @@ Currently working on scalable AI applications and intelligent workflow automatio
 - Enterprise AI Solutions
 
 ---
-
-# 📊 GitHub Analytics
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=saadalam01&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=saadalam01&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadalam01&layout=compact&theme=tokyonight" />
-</p>
